@@ -11,9 +11,9 @@ I am Remito, a Japanese junior high school student.
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity--> 
-1. 🎉 Merged PR [#7](https://github.com/sakura-tel/metaskey/pull/7) in [sakura-tel/metaskey](https://github.com/sakura-tel/metaskey)
-2. 💪 Opened PR [#7](https://github.com/sakura-tel/metaskey/pull/7) in [sakura-tel/metaskey](https://github.com/sakura-tel/metaskey)
-3. 🎉 Merged PR [#5](https://github.com/sakura-tel/metaskey/pull/5) in [sakura-tel/metaskey](https://github.com/sakura-tel/metaskey)
-4. 💪 Opened PR [#5](https://github.com/sakura-tel/metaskey/pull/5) in [sakura-tel/metaskey](https://github.com/sakura-tel/metaskey)
-5. 🎉 Merged PR [#23](https://github.com/sakura-tel/milkey/pull/23) in [sakura-tel/milkey](https://github.com/sakura-tel/milkey)
+1. ❗️ Opened issue [#8](https://github.com/sakura-tel/metaskey/issues/8) in [sakura-tel/metaskey](https://github.com/sakura-tel/metaskey)
+2. 🎉 Merged PR [#7](https://github.com/sakura-tel/metaskey/pull/7) in [sakura-tel/metaskey](https://github.com/sakura-tel/metaskey)
+3. 💪 Opened PR [#7](https://github.com/sakura-tel/metaskey/pull/7) in [sakura-tel/metaskey](https://github.com/sakura-tel/metaskey)
+4. 🎉 Merged PR [#5](https://github.com/sakura-tel/metaskey/pull/5) in [sakura-tel/metaskey](https://github.com/sakura-tel/metaskey)
+5. 💪 Opened PR [#5](https://github.com/sakura-tel/metaskey/pull/5) in [sakura-tel/metaskey](https://github.com/sakura-tel/metaskey)
 <!--END_SECTION:activity-->
