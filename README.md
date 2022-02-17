@@ -11,9 +11,9 @@ I am Remito, a Japanese junior high school student.
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity--> 
-1. ❌ Closed PR [#1](https://github.com/sakura-tel/sakura-tel-hp/pull/1) in [sakura-tel/sakura-tel-hp](https://github.com/sakura-tel/sakura-tel-hp)
-2. 🗣 Commented on [#233](https://github.com/sakura-tel/areionskey/issues/233) in [sakura-tel/areionskey](https://github.com/sakura-tel/areionskey)
-3. 🗣 Commented on [#232](https://github.com/sakura-tel/areionskey/issues/232) in [sakura-tel/areionskey](https://github.com/sakura-tel/areionskey)
-4. 🗣 Commented on [#143](https://github.com/sakura-tel/areionskey/issues/143) in [sakura-tel/areionskey](https://github.com/sakura-tel/areionskey)
-5. 🗣 Commented on [#231](https://github.com/sakura-tel/areionskey/issues/231) in [sakura-tel/areionskey](https://github.com/sakura-tel/areionskey)
+1. ❗️ Opened issue [#9](https://github.com/sakura-tel/metaskey/issues/9) in [sakura-tel/metaskey](https://github.com/sakura-tel/metaskey)
+2. 🗣 Commented on [#244](https://github.com/sakura-tel/areionskey/issues/244) in [sakura-tel/areionskey](https://github.com/sakura-tel/areionskey)
+3. ❌ Closed PR [#1](https://github.com/sakura-tel/sakura-tel-hp/pull/1) in [sakura-tel/sakura-tel-hp](https://github.com/sakura-tel/sakura-tel-hp)
+4. 🗣 Commented on [#233](https://github.com/sakura-tel/areionskey/issues/233) in [sakura-tel/areionskey](https://github.com/sakura-tel/areionskey)
+5. 🗣 Commented on [#232](https://github.com/sakura-tel/areionskey/issues/232) in [sakura-tel/areionskey](https://github.com/sakura-tel/areionskey)
 <!--END_SECTION:activity-->
