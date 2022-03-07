@@ -11,9 +11,9 @@ I am Remito, a Japanese junior high school student.
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity--> 
-1. 🗣 Commented on [#248](https://github.com/sakura-tel/areionskey/issues/248) in [sakura-tel/areionskey](https://github.com/sakura-tel/areionskey)
-2. 🗣 Commented on [#397](https://github.com/Groundpolis/Groundpolis/issues/397) in [Groundpolis/Groundpolis](https://github.com/Groundpolis/Groundpolis)
-3. 🎉 Merged PR [#1](https://github.com/sakura-tel/koruri/pull/1) in [sakura-tel/koruri](https://github.com/sakura-tel/koruri)
-4. 🗣 Commented on [#1](https://github.com/sakura-tel/koruri/issues/1) in [sakura-tel/koruri](https://github.com/sakura-tel/koruri)
-5. ❗️ Opened issue [#6](https://github.com/sakura-tel/sakura-tel-hp/issues/6) in [sakura-tel/sakura-tel-hp](https://github.com/sakura-tel/sakura-tel-hp)
+1. ❗️ Opened issue [#303](https://github.com/sakura-tel/areionskey/issues/303) in [sakura-tel/areionskey](https://github.com/sakura-tel/areionskey)
+2. 🗣 Commented on [#248](https://github.com/sakura-tel/areionskey/issues/248) in [sakura-tel/areionskey](https://github.com/sakura-tel/areionskey)
+3. 🗣 Commented on [#397](https://github.com/Groundpolis/Groundpolis/issues/397) in [Groundpolis/Groundpolis](https://github.com/Groundpolis/Groundpolis)
+4. 🎉 Merged PR [#1](https://github.com/sakura-tel/koruri/pull/1) in [sakura-tel/koruri](https://github.com/sakura-tel/koruri)
+5. 🗣 Commented on [#1](https://github.com/sakura-tel/koruri/issues/1) in [sakura-tel/koruri](https://github.com/sakura-tel/koruri)
 <!--END_SECTION:activity-->
